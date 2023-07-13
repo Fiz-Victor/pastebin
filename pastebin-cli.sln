@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pastebin-cli", "pastebin-cli\pastebin-cli.csproj", "{130AFB14-26EF-419B-A01C-C804CDA8FC24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130AFB14-26EF-419B-A01C-C804CDA8FC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130AFB14-26EF-419B-A01C-C804CDA8FC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130AFB14-26EF-419B-A01C-C804CDA8FC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130AFB14-26EF-419B-A01C-C804CDA8FC24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
